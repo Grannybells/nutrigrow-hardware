@@ -1,4 +1,4 @@
-# Nutrigrow hardware app
+# Nutrigrow hardware
 ## Arduino / C++
 ### Final Year Thesis Project
 
